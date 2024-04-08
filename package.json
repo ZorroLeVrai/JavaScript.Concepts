@@ -1,0 +1,26 @@
+{
+  "name": "javascript.concepts",
+  "version": "1.0.0",
+  "description": "tests javascript concepts",
+  "main": "core_concepts.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZorroLeVrai/JavaScript.Concepts.git"
+  },
+  "keywords": [
+    "JavaScript",
+    "prototype",
+    "monad",
+    "concepts"
+  ],
+  "author": "Amine BELBAHAR",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZorroLeVrai/JavaScript.Concepts/issues"
+  },
+  "homepage": "https://github.com/ZorroLeVrai/JavaScript.Concepts#readme"
+}
